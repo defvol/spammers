@@ -1,6 +1,8 @@
 # spammers
 Guerra en contra de los spammers
 
+![this is sparta](https://raw.githubusercontent.com/rodowi/spammers/master/cover-01.jpg)
+
 ## ¿Qué es esto?
 
 Todos odiamos esas llamadas de compañías ofreciendo productos y tarjetas de crédito.
