@@ -9,6 +9,8 @@ Todos odiamos esas llamadas de compañías ofreciendo productos y tarjetas de cr
 
 Aquí un repositorio para empezar la guerra.
 
+Veo 2 lineas de acción: recolectar números y reducir la efectividad de estos a través de bloqueo o ataque.
+
 ## ¿Cómo contribuir?
 
 1. **Recolección de números**. Cada que te llamen, pregunta el nombre de la compañía y registra los datos en [data/telefonos.csv](https://github.com/rodowi/spammers/edit/master/data/telefonos.csv), utiliza las claves de empresa y asunto para mantener organizada la base.
