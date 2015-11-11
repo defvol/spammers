@@ -11,7 +11,7 @@ Aquí un repositorio para empezar la guerra.
 
 ## ¿Cómo contribuir?
 
-1. **Recolección de números**. Cada que te llamen, pregunta el nombre de la compañía y registra los datos en `telefonos.csv`.
+1. **Recolección de números**. Cada que te llamen, pregunta el nombre de la compañía y registra los datos en [data/telefonos.csv](https://github.com/rodowi/spammers/edit/master/data/telefonos.csv), utiliza las claves de empresa y asunto para mantener organizada la base.
 2. **Documentación de herramientas**. Si conoces de alguna app o herramienta para bloquear estos números, compártela en la [Wiki](https://github.com/rodowi/spammers/wiki/Herramientas) y haz el mundo un lugar mejor.
 
 ## Ideas
